@@ -85,3 +85,4 @@ Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). 
 - [ClojureScript Cheatsheet](http://cljs.info/cheatsheet/)
 - [ClojureScript API](http://cljs.github.io/api/)
 - [ClojureDocs](https://clojuredocs.org/)
+- [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
