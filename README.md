@@ -73,3 +73,7 @@ Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). 
 ## Links
 - [Community Resources](http://clojure.org/community/resources)
 - [ClojureScript REPL](http://jaredforsyth.com/reepl/)
+- [ClojureScript Synonyms](https://kanaka.github.io/clojurescript/web/synonym.html)
+- [ClojureScript Cheatsheet](http://cljs.info/cheatsheet/)
+- [ClojureScript API](http://cljs.github.io/api/)
+- [ClojureDocs](https://clojuredocs.org/)
