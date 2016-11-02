@@ -1,3 +1,8 @@
+;; (defn name
+;;  ([& args] body)
+;;  ([& args] body)
+;;  ..)
+
 (defn init-plugin!
  ([selector]
   (init-plugin! selector nil nil))
