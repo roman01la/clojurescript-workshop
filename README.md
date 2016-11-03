@@ -12,10 +12,10 @@ Repository of related materials to the workshop
 
 It's nice to know the following...
 
-- *React.js* library
-- State management solutions like *Flux*
-- A concept of *immutability*
-- Basics of *functional programming*
+- *React.js* library ([learn](http://blog.andrewray.me/reactjs-for-stupid-people/))
+- State management solutions like *Flux* ([learn](http://blog.andrewray.me/flux-for-stupid-people/))
+- A concept of *immutability* ([learn](https://miles.no/blogg/why-care-about-functional-programming-part-1-immutability))
+- Basics of *functional programming* ([learn](http://www.slideshare.net/velvetflair/functional-programming-fundamentals))
 
 ## Preparation
 
