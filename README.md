@@ -55,7 +55,7 @@ make install
 
 ### Create a project
 
-1. Create a new project `lein new figwheel workshop`
+1. Create a new project `lein new figwheel workshop -- --reagent`
 2. Run the project for the first time to install dependencies `cd workshop && rlwrap lein figwheel dev`
 3. Once the project is running kill it with `Ctrl+C`
 
