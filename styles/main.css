@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background: #fff;
+  font: normal 16px 'Asap', sans-serif;
+  color: #141414;
+  line-height: 1.4em;
+}
+
+a {
+  color: #141414;
+}
+ul.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.page-header {
+  text-align: center;
+  padding: 8px 0;
+}
+
+.content {
+  max-width: 800px;
+  margin: 96px auto 64px;
+  padding: 0 8px 0 16px;
+}
+.content article {
+  margin: 0 0 64px;
+}
+.content article section {
+  border-bottom: 1px solid #141414;
+}
+.partners {
+  text-align: center;
+  margin: 96px 0 0;
+}
+.partners section {
+  margin: 0 0 64px;
+}
+.partners section h2 {
+  margin: 0 0 32px;
+}
+
+.page-footer {
+  text-align: center;
+}
