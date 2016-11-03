@@ -40,7 +40,9 @@ Or with [Windows installer](http://leiningen-win-installer.djpowell.net/).
 
 ### Readline wrapper
 
-Install rlwrap:
+`brew install rlwrap`
+
+*or*
 
 1. Clone the repo: https://github.com/hanslub42/rlwrap
 2. Execute
