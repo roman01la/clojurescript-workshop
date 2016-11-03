@@ -10,7 +10,7 @@ Repository of related materials to the workshop
 
 ## Requirements
 
-You should be familiar with...
+It's nice to know the following...
 
 - *React.js* library
 - State management solutions like *Flux*
