@@ -5,13 +5,25 @@
   <title>ClojureScript Workshop</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Asap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/vendor/addtocalendar.css">
   <link rel="stylesheet" href="styles/main.css">
 </head>
 <body>
 
   <header class="page-header">
     <h1>ClojureScript Workshop</h1>
-    <p><time datetime="2016-12-03">10:00 AM, December 3, 2016</time></p>
+    <p>
+      <time datetime="2016-03-12T10:00">10:00 AM, December 3, 2016</time>
+      <span class="addtocalendar atc-style-blue" data-calendars="Google Calendar, iCalendar">
+        <var class="atc_event">
+          <var class="atc_date_start">2016-03-12 10:00:00</var>
+          <var class="atc_date_end">2016-03-12 18:00:00</var>
+          <var class="atc_timezone">Europe/Kiev</var>
+          <var class="atc_title">ClojureScript Workshop</var>
+          <var class="atc_location">Kyiv</var>
+        </var>
+      </span>
+    </p>
     <p><a href="https://www.google.com/maps/place/Cogniance/@50.395123,30.4765283,17z/data=!4m13!1m7!3m6!1s0x40d4c8d909c92b8b:0x7d95f9b694f6c792!2sOkhtyrskyi+Ln,+7,+Kyiv,+Ukraine!3b1!8m2!3d50.395123!4d30.478717!3m4!1s0x0:0x13cad83c9e96a625!8m2!3d50.3963951!4d30.4776272">Okhtyrskyi Ln, 7, Kyiv, Ukraine, Cogniance</a></p>
     <p><strong><a href="https://goo.gl/forms/dTrCO6KpVsmoBdM93">REGISTER</a></strong></p>
   </header>
@@ -71,6 +83,8 @@
   <footer class="page-footer">
     <p><small>2016</small></p>
   </footer>
+
+  <script src="js/vendor/addtocalendar.min.js"></script>
 
 </body>
 </html>
