@@ -84,3 +84,5 @@ Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). 
 - [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 - [Quickref for Clojure Core](https://clojuredocs.org/quickref)
 - [ClojureScript Tutorial](https://www.niwi.nz/cljs-workshop/)
+- [ClojureScript Koans](http://clojurescriptkoans.com/)
+- [Video course (RU)](https://www.youtube.com/playlist?list=PLHOTezm7WWkmk_NxC51xwnC2YsAut_5vX)
