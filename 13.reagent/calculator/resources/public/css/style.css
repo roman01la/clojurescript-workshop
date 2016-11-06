@@ -1,2 +1,88 @@
-/* some style */
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  font: normal 16px monospace;
+}
+
+.container {
+  width: 224px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  margin: 100px auto 0;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.16);
+}
+
+.header {
+  height: 80px;
+  background: #4C4C4C;
+}
+
+.input {
+  width: 100%;
+  border: none;
+  padding: 0 14px;
+  font-size: 50px;
+  font-weight: 100;
+  font-family: "SF UI Display", sans-serif;
+  text-align: right;
+  color: #fff;
+  background: transparent;
+}
+.input:focus {
+  outline: none;
+}
+
+.number-pad {
+
+}
+.button {
+  border: none;
+  background: #E0E0E0;
+  color: #141414;
+  width: 56px;
+  height: 48px;
+  font: 300 22px sans-serif;
+  border-right: 1px solid #8E8E8E;
+  border-bottom: 1px solid #8E8E8E;
+  vertical-align: top;
+}
+.button:nth-child(4n) {
+  background: #F79231;
+  color: #fff;
+  border-right: none;
+}
+.button:nth-child(17),
+.button:nth-child(18),
+.button:nth-child(19),
+.button:nth-child(20) {
+  border-bottom: none;
+}
+.button:focus {
+  outline: none;
+}
+
+.ctrl-panel {
+  display: flex;
+  margin: 5px 0 0;
+}
+.window-ctrl {
+  width: 12px;
+  height: 12px;
+  border-radius: 6px;
+  margin: 0 0 0 8px;
+}
+.window-ctrl.close {
+  background: #FF544D;
+}
+.window-ctrl.min {
+  background: #FFBE2F;
+}
+.window-ctrl.max {
+  background: #28CA42;
+}
