@@ -1,6 +1,5 @@
 (ns calculator.components.pad
-  (:require [reagent.core :as r]
-            [calculator.components.base :refer [button]]))
+  (:require [calculator.components.base :refer [button]]))
 
 (def ->float js/parseFloat)
 

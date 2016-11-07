@@ -1,5 +1,4 @@
-(ns calculator.components.base
-  (:require [reagent.core :as r]))
+(ns calculator.components.base)
 
 (defn input [props]
   [:div.field
