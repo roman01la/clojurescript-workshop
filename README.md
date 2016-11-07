@@ -86,3 +86,4 @@ Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). 
 - [ClojureScript Tutorial](https://www.niwi.nz/cljs-workshop/)
 - [ClojureScript Koans](http://clojurescriptkoans.com/)
 - [Video course (RU)](https://www.youtube.com/playlist?list=PLHOTezm7WWkmk_NxC51xwnC2YsAut_5vX)
+- [re-frame](https://github.com/Day8/re-frame)
