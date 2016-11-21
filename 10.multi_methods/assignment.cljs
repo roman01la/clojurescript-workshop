@@ -1,7 +1,6 @@
-;; Develop Clojure's data to JSON converter
-;; which handles strings, numbers, booleans, keywords and vectors
-;; using multimethods (hint: dispatch on type)
+;; Develop ticketing system using multimethods
+;; which prints a ticket either for adults or children
 
 ;; test
-(to-json [:keyword "string" 1 true false [:nested [:vector]]])
-;; "[\"keyword\", \"string\", 1, true, false, [\"nested\", [\"vector\"]]]"
+(print-ticket {:name "John Doe" :age 31}) ;; "Adult: John Doe"
+(print-ticket {:name "Mark Piper" :age 11}) ;; "Child: Mark Piper"

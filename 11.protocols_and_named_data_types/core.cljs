@@ -9,6 +9,7 @@
 
 ;; Types
 ;; When to use? For programming constructs
+;; ===============================================
 
 (defprotocol Reducible
   (reduce [this f]))
@@ -46,6 +47,7 @@
 
 ;; Records
 ;; When to use? For domain constructs that need a custom type
+;; ===============================================
 
 (defprotocol Book
   (next-page [this])
@@ -71,3 +73,24 @@
 
 (:title bible) ;; "The Bible"
 (:pages bible) ;; []
+
+
+;; Extending types with protocols
+;; ===============================================
+
+;; Extend a type with one or multiple protocols
+(extend-type Array
+  ICountable
+    (count [this] ...)
+  IIterator
+    (iterator [this] ...)
+    (for-each [this] ...))
+
+;; Extend multiple types with implementations of a single protocol
+(extend-protocol ICountable
+  Array
+    (count [this] ...)
+  Object
+    (count [this] ...)
+  NodeList
+    (count [this] ...))
