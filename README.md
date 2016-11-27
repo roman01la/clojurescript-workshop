@@ -53,6 +53,18 @@ make
 make install
 ```
 
+### ClojureScript REPL
+
+Install [Lumo](https://github.com/anmonteiro/lumo/)
+
+```
+npm i -g lumo-cljs
+```
+
+```
+brew install lumo
+```
+
 ### Configure your editor
 
 #### Atom
