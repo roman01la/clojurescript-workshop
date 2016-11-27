@@ -57,10 +57,12 @@ make install
 
 Install [Lumo](https://github.com/anmonteiro/lumo/)
 
+via *NPM*
 ```
 npm i -g lumo-cljs
 ```
 
+via *Homebrew*
 ```
 brew install lumo
 ```
