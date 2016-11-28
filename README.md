@@ -101,3 +101,4 @@ Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). 
 - [ClojureScript Koans](http://clojurescriptkoans.com/)
 - [Video course (RU)](https://www.youtube.com/playlist?list=PLHOTezm7WWkmk_NxC51xwnC2YsAut_5vX)
 - [re-frame](https://github.com/Day8/re-frame)
+- [Clojure Jobs](https://purelyfunctional.tv/resources/clojure-jobs-resources/)
