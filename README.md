@@ -2,6 +2,8 @@
 
 Repository of related materials to the workshop
 
+[![Join the chat at https://gitter.im/roman01la/clojurescript-workshop](https://badges.gitter.im/roman01la/clojurescript-workshop.svg)](https://gitter.im/roman01la/clojurescript-workshop)
+
 ## Table of contents
 
 - [Requirements](#requirements)
