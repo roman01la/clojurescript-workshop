@@ -7,6 +7,7 @@ Repository of related materials to the workshop
 - [Requirements](#requirements)
 - [Preparation](#preparation)
 - [Links](#links)
+- [Books](#books)
 
 ## Requirements
 
@@ -102,3 +103,12 @@ Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). 
 - [Video course (RU)](https://www.youtube.com/playlist?list=PLHOTezm7WWkmk_NxC51xwnC2YsAut_5vX)
 - [re-frame](https://github.com/Day8/re-frame)
 - [Clojure Jobs](https://purelyfunctional.tv/resources/clojure-jobs-resources/)
+
+## Books
+- [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/)
+- [ClojureScript: Up and Running](http://shop.oreilly.com/product/0636920025139.do)
+- [Clojure for the Brave and True](http://www.braveclojure.com/)
+- [Casting SPELs in Lisp](http://www.lisperati.com/casting.html)
+- [Land of Lisp](http://landoflisp.com/)
+- [The Little Schemer](https://mitpress.mit.edu/books/little-schemer)
+- [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer)
