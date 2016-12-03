@@ -23,13 +23,13 @@
   (println "Dog says: Woof!")) ;; method body
 
 (defmethod voice :cat [animal]
-  (println "Dog says: Meow!"))
+  (println "Cat says: Meow!"))
 
 (defmethod voice :cow [animal]
-  (println "Dog says: Moo!"))
+  (println "Cow says: Moo!"))
 
 (defmethod voice :default [animal]
   (println "No such animal type"))
 
-(voice {:type :cat}) ;; "Dog says: Meow!"
+(voice {:type :cat}) ;; "Cat says: Meow!"
 (voice {:type :pig}) ;; "No such animal type"
