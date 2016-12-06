@@ -4,6 +4,8 @@ Repository of related materials to the workshop
 
 [![Join the chat at https://gitter.im/roman01la/clojurescript-workshop](https://badges.gitter.im/roman01la/clojurescript-workshop.svg)](https://gitter.im/roman01la/clojurescript-workshop)
 
+[📺 Screencast (RU)](https://www.youtube.com/playlist?list=PLHOTezm7WWknZXg8IrRSRLZ-nIlpYUAyU)
+
 ## Table of contents
 
 - [Requirements](#requirements)
