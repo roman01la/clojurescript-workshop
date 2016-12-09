@@ -12,6 +12,7 @@ Repository of related materials to the workshop
 - [Preparation](#preparation)
 - [Links](#links)
 - [Books](#books)
+- [Job Boards](#job-boards)
 
 ## Requirements
 
@@ -116,3 +117,10 @@ Follow [this manual](https://gist.github.com/jasongilman/d1f70507bed021b48625). 
 - [Land of Lisp](http://landoflisp.com/)
 - [The Little Schemer](https://mitpress.mit.edu/books/little-schemer)
 - [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer)
+
+## Job Boards
+- [jobs.braveclojure.com](https://jobs.braveclojure.com/)
+- [jobs.functionalworks.com](https://jobs.functionalworks.com/)
+- [functionaljobs.com](https://functionaljobs.com/)
+- [remoteok.io/remote-clojure-jobs](https://remoteok.io/remote-clojure-jobs)
+- [More Clojure job resources](https://purelyfunctional.tv/resources/clojure-jobs-resources/)
