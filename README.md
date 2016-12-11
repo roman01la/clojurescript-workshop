@@ -8,11 +8,21 @@ Repository of related materials to the workshop
 
 ## Table of contents
 
+- [Why Lisp?](#why-lisp)
 - [Requirements](#requirements)
 - [Preparation](#preparation)
 - [Links](#links)
 - [Books](#books)
 - [Job Boards](#job-boards)
+
+## Why Lisp?
+
+- **Ex­pres­sive­ness** — when a language allows you to put *more meaning with less code*. It is not just about con­ci­sion, but also *pre­ci­sion*, *read­abil­ity*, *flex­i­bil­ity* and *po­ten­tial for abstraction*.
+- **Everything is an expression**. Most languages has both *statements* and *expressions*, which you can not really combine together, but in Lisp everything is an expression. A single uniform interface allows to compose everything naturally. Take for example Lego blocks: you can build whatever you want easily because those blocks are following the same rule of composition.
+- **An ex­pres­sion is ei­ther a sin­gle value or a list**. There are single values like strings and numbers. But function calls and list data structure are all lists. So basically the whole point of writing a Lisp program is to combine together lists of lists and single values. This gives the same power of composition similar to expressions.
+- **Func­tional pro­gram­ming**. Lisps are considered to be functional languages (there are also OOP capabilities). It means they are focused on avoiding data mutation and state. This allows developers to build truly reusable components and structure programs in a clean way. You can see that all new programming languages are mostly functional, so we can say that functional programming style has proved to be a good tool when building software.
+
+*The list above is inspired by an article [“Why Racket? Why Lisp?”](http://practicaltypography.com/why-racket-why-lisp.html).*
 
 ## Requirements
 
